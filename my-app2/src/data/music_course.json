@@ -1,0 +1,85 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Guitar Fundamentals",
+            "slug": "guitar-fundamentals",
+            "description": "Learn the basics of playing guitar, from chord progressions to strumming techniques.",
+            "price": 49.99,
+            "instructor": "John Smith",
+            "is_featured": true,
+            "image": "guitar_fundamentals.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Piano Mastery",
+            "slug": "piano-mastery",
+            "description": "Master the piano with this comprehensive course covering scales, arpeggios, and more.",
+            "price": 59.99,
+            "instructor": "Emily Johnson",
+            "is_featured": true,
+            "image": "piano_mastery.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Music Theory 101",
+            "slug": "music-theory-101",
+            "description": "Understand the fundamentals of music theory, including notation, scales, and harmony.",
+            "price": 39.99,
+            "instructor": "Michael Brown",
+            "is_featured": false,
+            "image": "music_theory_101.jpg"
+        },
+        {
+          "id": 4,
+          "title": "Singing Techniques",
+          "slug": "singing-techniques",
+          "description": "Improve your singing voice with exercises and vocal techniques taught by professionals.",
+          "price": 54.99,
+          "instructor": "Sarah Thompson",
+          "is_featured": false,
+          "image": "singing_techniques.jpg"
+        },
+        {
+          "id": 5,
+          "title": "Drumming Essentials",
+          "slug": "drumming-essentials",
+          "description": "Get started with drumming basics, including rhythm patterns, fills, and beat coordination.",
+          "price": 44.99,
+          "instructor": "David Wilson",
+          "is_featured": false,
+          "image": "drumming_essentials.jpg"
+        },
+        {
+          "id": 6,
+          "title": "Electronic Music Production",
+          "slug": "electronic-music-production",
+          "description": "Learn to produce electronic music using software tools and synthesizers.",
+          "price": 69.99,
+          "instructor": "Alex Rodriguez",
+          "is_featured": true,
+          "image": "electronic_music_production.jpg"
+        },
+        {
+          "id": 7,
+          "title": "Songwriting Workshop",
+          "slug": "songwriting-workshop",
+          "description": "Unlock your creativity and learn the art of crafting compelling songs.",
+          "price": 49.99,
+          "instructor": "Emma White",
+          "is_featured": false,
+          "image": "songwriting_workshop.jpg"
+        },
+        {
+          "id": 8,
+          "title": "Bass Guitar Basics",
+          "slug": "bass-guitar-basics",
+          "description": "Start playing bass guitar with this beginner-friendly course covering technique and theory.",
+          "price": 49.99,
+          "instructor": "Mark Davis",
+          "is_featured": true,
+          "image": "bass_guitar_basics.jpg"
+        }
+      ]
+      
+}
